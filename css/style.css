@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/profile.png) right bottom no-repeat;
+    background: url(../img/29060603_154834798675835_6070266368212615383_o.jpg) right bottom no-repeat;
     background-size: contain;
 }
 
@@ -384,7 +384,7 @@ a:focus {
 
 .large-btn .btn:hover::after {
     width: 100%;
-    background: rgba(255, 255, 255, .1);
+    background:#FF6F61;
 }
 
 
