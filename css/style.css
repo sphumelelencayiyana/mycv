@@ -387,8 +387,8 @@ a:focus {
 /**********************************/
 .content-header {
     position: relative;
-    width: 100%;
-    margin-bottom: 30px;
+    width: 40%;
+    margin-bottom: 10px;
     padding-bottom: 10px;
 }
 
@@ -404,7 +404,7 @@ a:focus {
     content: '';
     position: absolute;
     display: block;
-    width: 50px;
+    width: 10px;
     height: 3px;
     bottom: 0;
     left: 0;
@@ -423,9 +423,7 @@ a:focus {
 }
 
 
-.about img {
-    width: 100%;
-    height: auto;
+
 }
 
 @media(max-width: 767.98px) {
@@ -441,18 +439,6 @@ a:focus {
     transition: all .3s;
 }
 
-.about .btn:hover {
-    color: #FF6F61;
-    background: #222222;
-}
-
-.about .skills {
-    padding-top: 15px;
-}
-
-.about .skill-name {
-    margin-top: 15px;
-}
 
 .about .skill-name p {
     display: inline-block;
@@ -463,20 +449,6 @@ a:focus {
 
 .about .skill-name p:last-child {
     float: right;
-}
-
-.about .progress {
-    height: 5px;
-    border: 1px solid #FF6F61;
-    border-radius: 0;
-    background: #ffffff;
-}
-
-.about .progress .progress-bar {
-    width: 1px;
-    background: #FF6F61;
-    border-radius: 0;
-    transition: 1s;
 }
 
 
