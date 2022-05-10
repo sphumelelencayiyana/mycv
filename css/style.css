@@ -376,10 +376,7 @@ a:focus {
     transition: all .3s;
 }
 
-.large-btn .btn:hover::after {
-    width: 100%;
-    background:#FF6F61;
-}
+
 
 
 /**********************************/
@@ -424,7 +421,7 @@ a:focus {
 
 
 
-}
+
 
 @media(max-width: 767.98px) {
     .about img {
